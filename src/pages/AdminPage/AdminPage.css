@@ -1,0 +1,21 @@
+/* src/style.css */
+.ant-layout-header {
+  background-color: #001529;
+}
+
+.ant-menu-dark .ant-menu-item {
+  color: #fff;
+}
+
+.ant-menu-dark .ant-menu-item:hover {
+  background-color: #1890ff;
+}
+
+.ant-menu-item a {
+  color: white;
+  text-decoration: none;
+}
+
+.ant-menu-item a:hover {
+  color: #1890ff;
+}
